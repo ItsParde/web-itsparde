@@ -1,0 +1,9 @@
+{
+  "name": "web-itsparde",
+  "version": "1.0.0",
+  "description": "Web oficial de ItsParde",
+  "private": true,
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  }
+}
